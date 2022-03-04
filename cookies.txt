@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nicepage.com	TRUE	/	FALSE	1999999999	AdsParameters	?device=desktop&utm_page=/html-templates
+nicepage.com	TRUE	/	FALSE	1999999999	locale	en
+nicepage.com	TRUE	/	FALSE	1999999999	Upage	4qnzaqwfonw55tfr1ott0r3o
+nicepage.com	TRUE	/	FALSE	1999999999	ref	http://nicepage.com/html-templates/preview/see-you-soon-1154133?device=desktop
+

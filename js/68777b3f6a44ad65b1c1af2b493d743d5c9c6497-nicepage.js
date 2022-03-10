@@ -510,10 +510,7 @@
     var e = void 0,
       t = void 0;
     (function () {
-      /*!
-       * https://github.com/gilmoreorless/css-background-parser
-       * Copyright © 2015 Gilmore Davidson under the MIT license: http://gilmoreorless.mit-license.org/
-       */
+    
       !(function (t) {
         function e(t) {
           if (!(this instanceof e)) return new e();
@@ -7848,13 +7845,7 @@ https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
   7324: function (t, e, i) {
     "use strict";
     var n, o;
-    /*!
-     * JavaScript Cookie v2.2.1
-     * https://github.com/js-cookie/js-cookie
-     *
-     * Copyright 2006, 2015 Klaus Hartl & Fagner Brack
-     * Released under the MIT license
-     */ !(function (factory) {
+    !(function (factory) {
       var a;
       if (true)
         !(
